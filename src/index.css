@@ -1,5 +1,37 @@
-body {
+/* body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
 }
+div.MoviePage {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+div.MoviePage-poster-holder {
+  flex-basis: 35%;
+  display: flex;
+  flex-wrap: wrap;
+}
+img.MoviePage-poster {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  align-self: flex-start;
+}
+div.MoviePage-content {
+  flex-basis: 55%;
+}
+
+h1.MoviePage-title {
+  flex-basis: 100%;
+}
+p.MoviePage-description {
+  flex-basis: 100%;
+}
+div.MoviePage-photos img {
+  width: 20%;
+  height: 20%;
+  overflow: hidden;
+}
+ */
